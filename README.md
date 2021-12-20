@@ -1,3 +1,5 @@
+**NOTE: This is a legacy branch of the bot. The code here will not be supported and maintained.**
+
 # discord-pekofy-bot
 
 u/pekofy-bot from Reddit, but as a Discord bot.
