@@ -1,3 +1,5 @@
+**This branch is made for automatic deployments to Heroku, thus the code here is the one currently running on Discord.**
+
 <p align="center">
     <a href="https://discord.com/api/oauth2/authorize?client_id=817481976797069383&permissions=116736&scope=bot">Invite</a> | 
     <a href="https://www.reddit.com/user/pekofy_bot/">Original Reddit bot</a> | 
