@@ -1,0 +1,22 @@
+(10:58:04) [INFO] logging in using static token
+(10:58:05) [INFO] Shard ID None has sent the IDENTIFY payload.
+(10:58:05) [INFO] Shard ID None has connected to Gateway: ["gateway-prd-main-v5gm",{"micros":155140,"calls":["discord-sessions-green-prd-2-99",{"micros":152479,"calls":["start_session",{"micros":119577,"calls":["discord-api-d887bb4d9-qzxhv",{"micros":112005,"calls":["get_user",{"micros":24750},"add_authorized_ip",{"micros":16145},"get_guilds",{"micros":17599},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":32163,"calls":[]}]}]}] (Session ID: 143731a9c79602c4c4ed6c6190c416a3).
+(10:58:07) [INFO] Succesfully logged in as pekofybot_test#0984!
+(10:58:26) [INFO] Received signal to terminate bot and event loop.
+(10:58:26) [INFO] Cleaning up tasks.
+(10:58:26) [INFO] Cleaning up after 2 tasks.
+(10:58:26) [INFO] All tasks finished cancelling.
+(10:58:26) [INFO] Closing the event loop.
+(10:58:26) [INFO] Shutting down...
+
+(11:00:22) [INFO] logging in using static token
+(11:00:22) [INFO] Shard ID None has sent the IDENTIFY payload.
+(11:00:23) [INFO] Shard ID None has connected to Gateway: ["gateway-prd-main-v7dh",{"micros":83565,"calls":["discord-sessions-green-prd-2-124",{"micros":81661,"calls":["start_session",{"micros":49646,"calls":["discord-api-d887bb4d9-cglqk",{"micros":43045,"calls":["get_user",{"micros":8917},"add_authorized_ip",{"micros":3134},"get_guilds",{"micros":6117},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20306,"calls":[]}]}]}] (Session ID: bae207c4cce8e9696c1d6859de6c58e0).
+(11:00:25) [INFO] Succesfully logged in as pekofybot_test#0984!
+(11:05:18) [INFO] Received signal to terminate bot and event loop.
+(11:05:18) [INFO] Cleaning up tasks.
+(11:05:18) [INFO] Cleaning up after 2 tasks.
+(11:05:18) [INFO] All tasks finished cancelling.
+(11:05:18) [INFO] Closing the event loop.
+(11:05:18) [INFO] Shutting down...
+
