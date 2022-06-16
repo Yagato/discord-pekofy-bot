@@ -26,7 +26,6 @@ bot.load_extension("extensions.events")
 bot.load_extension("extensions.pekofy")
 bot.load_extension("extensions.reactions")
 bot.load_extension("extensions.help")
-bot.load_extension("extensions.pekogacha")
 
 bot.run(os.environ["PEKOBOT_TOKEN"])
 
