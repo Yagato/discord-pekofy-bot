@@ -43,7 +43,7 @@ command_cooldown = "You all are going too fast peko~! Please wait {} seconds bef
 message_too_long = "This message is toooo long peko~!!! I can't send the pekofied version of it!"
 
 gacha_win = [
-    "Congratuttrasyon! You won {} Pekos! {}".format(pekos, link) \
+    "Congratuttrasyon! You won {} Pekos! {}".format(pekos, link) 
     for pekos, link in {
         "100": "https://www.youtube.com/shorts/xuFSlfznFzU",
         "2000": "https://i.redd.it/jnknro1eysg51.jpg",
@@ -52,7 +52,7 @@ gacha_win = [
 ]
 
 gacha_lose = [
-    "Oh no! You lost {} Pekos! {}".format(pekos, link) \
+    "Oh no! You lost {} Pekos! {}".format(pekos, link) 
     for pekos, link in {
         "100": "https://i.kym-cdn.com/photos/images/original/002/241/259/1c1.png",
         "1000": "https://www.youtube.com/shorts/ljxEIQZyjGo",

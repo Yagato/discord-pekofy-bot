@@ -119,3 +119,7 @@
 (11:57:38) [INFO] Closing the event loop.
 (11:57:38) [INFO] Shutting down...
 
+(12:04:40) [INFO] logging in using static token
+(12:04:41) [INFO] Shard ID None has sent the IDENTIFY payload.
+(12:04:41) [INFO] Shard ID None has connected to Gateway: ["gateway-prd-main-061f",{"micros":64149,"calls":["discord-sessions-green-prd-2-107",{"micros":62514,"calls":["start_session",{"micros":37325,"calls":["discord-api-858986458f-d2d5t",{"micros":33318,"calls":["get_user",{"micros":9869},"add_authorized_ip",{"micros":2121},"get_guilds",{"micros":3463},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: fcee44c314f66c460193e325b7d83d7b).
+(12:04:43) [INFO] Succesfully logged in as pekofybot_test#0984!
